@@ -1,0 +1,39 @@
+#maindiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 5px;
+    /* word-break: break-all; */
+    padding: 50px;
+
+}
+.div{
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 30%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    background-color: rgb(51, 50, 50);
+    margin-top: 10px;
+}
+.image{
+    width: 300px;
+}
+button{
+    background-color: cadetblue;
+}
+
+
+
+
+
+
+
+
+
